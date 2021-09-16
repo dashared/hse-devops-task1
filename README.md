@@ -20,3 +20,13 @@ Another one
 Development of the feature 1
 Another addition
 Another fix
+
+---
+Release 2
+
+Feature for future release
+
+SOME major changes for future release
+
+Separate feature
+Small fix
