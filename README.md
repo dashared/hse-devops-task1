@@ -9,5 +9,9 @@ Some changes in develop
 Another change in develop
 More additions here
 
+---
+Release 2
 
 Feature for future release
+
+SOME major changes for future release
