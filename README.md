@@ -12,5 +12,4 @@ More additions here
 --- 
 Release 1
 
-WIP
-Small additions here
+Feature is Ready! The app is developed!
