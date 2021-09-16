@@ -16,3 +16,5 @@ Feature is Ready! The app is developed!
 
 Bugfix in release 1
 Another one
+
+Development of the feature 1
