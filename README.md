@@ -15,3 +15,5 @@ Release 2
 Feature for future release
 
 SOME major changes for future release
+
+Separate feature
