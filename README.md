@@ -18,3 +18,4 @@ Bugfix in release 1
 Another one
 
 Development of the feature 1
+Another addition
