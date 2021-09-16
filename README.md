@@ -1,8 +1,15 @@
-# Task 0.1
+# Task 1
 
 On branch master: Initial commit - added README.md
 
 --- 
 In development
 
-Work in progress in dev branch
+Some changes in develop
+Another change in develop
+More additions here
+
+--- 
+Release 1
+
+Feature is Ready! The app is developed!
