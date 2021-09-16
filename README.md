@@ -18,3 +18,4 @@ Bugfix in release 1
 Another one
 
 Small bugfix
+Fixed readme
