@@ -30,3 +30,5 @@ SOME major changes for future release
 
 Separate feature
 Small fix
+
+Hello world in release
